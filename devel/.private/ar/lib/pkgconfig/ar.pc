@@ -1,0 +1,8 @@
+prefix=/home/jin/projects/lane_following_using_turtlbot/devel/.private/ar
+
+Name: ar
+Description: Description of ar
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

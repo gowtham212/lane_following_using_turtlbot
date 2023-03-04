@@ -1,0 +1,1 @@
+/home/jin/projects/lane_following_using_turtlbot/devel/.private/ar/lib/pkgconfig/ar.pc

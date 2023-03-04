@@ -1,0 +1,4 @@
+Symlinking /home/jin/projects/lane_following_using_turtlbot/devel/lib/turtlebot3_gazebo/turtlebot3_drive
+Symlinking /home/jin/projects/lane_following_using_turtlbot/devel/lib/pkgconfig/turtlebot3_gazebo.pc
+Symlinking /home/jin/projects/lane_following_using_turtlbot/devel/share/turtlebot3_gazebo/cmake/turtlebot3_gazeboConfig.cmake
+Symlinking /home/jin/projects/lane_following_using_turtlbot/devel/share/turtlebot3_gazebo/cmake/turtlebot3_gazeboConfig-version.cmake
