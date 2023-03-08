@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "/home/jin/projects/lane_following_using_turtlbot/devel/.private/turtlebot3_msgs/share/roseus/ros/turtlebot3_msgs/manifest.l"
-  "/home/jin/projects/lane_following_using_turtlbot/devel/.private/turtlebot3_msgs/share/roseus/ros/turtlebot3_msgs/msg/SensorState.l"
-  "/home/jin/projects/lane_following_using_turtlbot/devel/.private/turtlebot3_msgs/share/roseus/ros/turtlebot3_msgs/msg/Sound.l"
-  "/home/jin/projects/lane_following_using_turtlbot/devel/.private/turtlebot3_msgs/share/roseus/ros/turtlebot3_msgs/msg/VersionInfo.l"
+  "/home/user/lane_following_using_turtlbot/devel/share/roseus/ros/turtlebot3_msgs/manifest.l"
+  "/home/user/lane_following_using_turtlbot/devel/share/roseus/ros/turtlebot3_msgs/msg/SensorState.l"
+  "/home/user/lane_following_using_turtlbot/devel/share/roseus/ros/turtlebot3_msgs/msg/Sound.l"
+  "/home/user/lane_following_using_turtlbot/devel/share/roseus/ros/turtlebot3_msgs/msg/VersionInfo.l"
   "CMakeFiles/turtlebot3_msgs_generate_messages_eus"
 )
 

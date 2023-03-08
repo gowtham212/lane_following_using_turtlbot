@@ -1,1 +1,8 @@
-/home/jin/projects/lane_following_using_turtlbot/devel/.private/turtlebot3_msgs/share/common-lisp/ros/turtlebot3_msgs/msg/_package_VersionInfo.lisp
+(cl:in-package turtlebot3_msgs-msg)
+(cl:export '(HARDWARE-VAL
+          HARDWARE
+          FIRMWARE-VAL
+          FIRMWARE
+          SOFTWARE-VAL
+          SOFTWARE
+))

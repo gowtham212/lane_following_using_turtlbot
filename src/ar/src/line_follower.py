@@ -18,7 +18,7 @@ class ROSExample:
         cv.namedWindow('MASK', 1)
         cv.namedWindow('MASKED', 1)
         self.image_sub = rospy.Subscriber(
-            'camera/rgb/image_raw', Image, self.image_callback)
+            'camera/color/image_raw', Image, self.image_callback)
         self.cmd_vel_pub = rospy.Publisher('cmd_vel', Twist, queue_size=1)
         self.rfid_sub = rospy.Subscriber('rfid', Int32, self.rfid_call)
         self.rfid_status = 0
@@ -31,8 +31,8 @@ class ROSExample:
     def image_callback(self, msg):
         image = self.bridge.imgmsg_to_cv2(msg, desired_encoding='bgr8')
         hsv = cv.cvtColor(image, cv.COLOR_BGR2HSV)
-        lower_yellow = np.array([10, 10, 10])
-        upper_yellow = np.array([255, 255, 250])
+        lower_yellow = np.array([60, 100, 100])
+        upper_yellow = np.array([255, 255, 0])
         mask = cv.inRange(hsv, lower_yellow, upper_yellow)
         masked = cv.bitwise_and(image, image, mask=mask)
         h, w = image.shape[:2]

@@ -1,1 +1,8 @@
-/home/jin/projects/lane_following_using_turtlbot/devel/.private/turtlebot3_example/lib/pkgconfig/turtlebot3_example.pc
+prefix=/home/user/lane_following_using_turtlbot/devel
+
+Name: turtlebot3_example
+Description: Description of turtlebot3_example
+Version: 1.2.6
+Cflags: -I/home/user/lane_following_using_turtlbot/devel/include
+Libs: -L${prefix}/lib 
+Requires: rospy actionlib interactive_markers std_msgs sensor_msgs geometry_msgs nav_msgs visualization_msgs actionlib_msgs turtlebot3_msgs message_runtime

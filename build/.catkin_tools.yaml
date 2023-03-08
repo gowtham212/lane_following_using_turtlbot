@@ -1,6 +1,0 @@
-devel_space: /home/jin/projects/lane_following_using_turtlbot/devel
-install: false
-install_space: /home/jin/projects/lane_following_using_turtlbot/install
-profile: default
-source_space: /home/jin/projects/lane_following_using_turtlbot/src
-workspace: /home/jin/projects/lane_following_using_turtlbot

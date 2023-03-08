@@ -1,1 +1,0 @@
-/home/jin/projects/lane_following_using_turtlbot/devel/.private/turtlebot3_msgs/lib/python3/dist-packages/turtlebot3_msgs/__init__.py

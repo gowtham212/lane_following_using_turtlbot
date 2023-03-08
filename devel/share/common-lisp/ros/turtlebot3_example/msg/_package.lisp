@@ -1,1 +1,19 @@
-/home/jin/projects/lane_following_using_turtlbot/devel/.private/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg/_package.lisp
+(cl:defpackage turtlebot3_example-msg
+  (:use )
+  (:export
+   "<TURTLEBOT3ACTION>"
+   "TURTLEBOT3ACTION"
+   "<TURTLEBOT3ACTIONFEEDBACK>"
+   "TURTLEBOT3ACTIONFEEDBACK"
+   "<TURTLEBOT3ACTIONGOAL>"
+   "TURTLEBOT3ACTIONGOAL"
+   "<TURTLEBOT3ACTIONRESULT>"
+   "TURTLEBOT3ACTIONRESULT"
+   "<TURTLEBOT3FEEDBACK>"
+   "TURTLEBOT3FEEDBACK"
+   "<TURTLEBOT3GOAL>"
+   "TURTLEBOT3GOAL"
+   "<TURTLEBOT3RESULT>"
+   "TURTLEBOT3RESULT"
+  ))
+

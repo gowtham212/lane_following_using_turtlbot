@@ -1,1 +1,8 @@
-/home/jin/projects/lane_following_using_turtlbot/devel/.private/turtlebot3_msgs/lib/pkgconfig/turtlebot3_msgs.pc
+prefix=/home/user/lane_following_using_turtlbot/devel
+
+Name: turtlebot3_msgs
+Description: Description of turtlebot3_msgs
+Version: 1.0.1
+Cflags: -I/home/user/lane_following_using_turtlbot/devel/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime

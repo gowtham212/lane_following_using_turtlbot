@@ -1,1 +1,24 @@
-/home/jin/projects/lane_following_using_turtlbot/devel/.private/turtlebot3_msgs/share/common-lisp/ros/turtlebot3_msgs/msg/_package_SensorState.lisp
+(cl:in-package turtlebot3_msgs-msg)
+(cl:export '(HEADER-VAL
+          HEADER
+          BUMPER-VAL
+          BUMPER
+          CLIFF-VAL
+          CLIFF
+          SONAR-VAL
+          SONAR
+          ILLUMINATION-VAL
+          ILLUMINATION
+          LED-VAL
+          LED
+          BUTTON-VAL
+          BUTTON
+          TORQUE-VAL
+          TORQUE
+          LEFT_ENCODER-VAL
+          LEFT_ENCODER
+          RIGHT_ENCODER-VAL
+          RIGHT_ENCODER
+          BATTERY-VAL
+          BATTERY
+))

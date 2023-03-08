@@ -1,1 +1,8 @@
-/home/jin/projects/lane_following_using_turtlbot/devel/.private/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg/_package_Turtlebot3ActionFeedback.lisp
+(cl:in-package turtlebot3_example-msg)
+(cl:export '(HEADER-VAL
+          HEADER
+          STATUS-VAL
+          STATUS
+          FEEDBACK-VAL
+          FEEDBACK
+))
