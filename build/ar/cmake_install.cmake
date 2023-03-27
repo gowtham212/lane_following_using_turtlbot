@@ -1,8 +1,8 @@
-# Install script for directory: /home/user/lane_following_using_turtlbot/src/ar
+# Install script for directory: /home/jin/projects/lane_following_using_turtlbot/src/ar
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/user/lane_following_using_turtlbot/install")
+  set(CMAKE_INSTALL_PREFIX "/home/jin/projects/lane_following_using_turtlbot/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -38,17 +38,17 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/user/lane_following_using_turtlbot/build/ar/catkin_generated/installspace/ar.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/jin/projects/lane_following_using_turtlbot/build/ar/catkin_generated/installspace/ar.pc")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ar/cmake" TYPE FILE FILES
-    "/home/user/lane_following_using_turtlbot/build/ar/catkin_generated/installspace/arConfig.cmake"
-    "/home/user/lane_following_using_turtlbot/build/ar/catkin_generated/installspace/arConfig-version.cmake"
+    "/home/jin/projects/lane_following_using_turtlbot/build/ar/catkin_generated/installspace/arConfig.cmake"
+    "/home/jin/projects/lane_following_using_turtlbot/build/ar/catkin_generated/installspace/arConfig-version.cmake"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ar" TYPE FILE FILES "/home/user/lane_following_using_turtlbot/src/ar/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ar" TYPE FILE FILES "/home/jin/projects/lane_following_using_turtlbot/src/ar/package.xml")
 endif()
 

@@ -1,4 +1,4 @@
-prefix=/home/user/lane_following_using_turtlbot/install
+prefix=/home/jin/projects/lane_following_using_turtlbot/install
 
 Name: turtlebot3_msgs
 Description: Description of turtlebot3_msgs

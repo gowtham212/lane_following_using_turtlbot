@@ -1,15 +1,15 @@
 <?xml version='1.0'?>
 <sdf version='1.7'>
-  <model name='turtle_line'>
-    <model name='yellow line'>
+  <model name='aruco_id1'>
+    <model name='id1'>
       <static>1</static>
       <link name='link_ground'>
         <collision name='collision'>
           <geometry>
-            <plane>
-              <normal>0 0 1</normal>
-              <size>0.1 3.2</size>
-            </plane>
+            <uri>
+              model:://aruco_id1/meshes/ID_1.dae
+            </uri>
+            <scale>1 1 1</scale>
           </geometry>
           <surface>
             <friction>
@@ -23,20 +23,14 @@
         <visual name='visual_ground'>
           <cast_shadows>0</cast_shadows>
           <geometry>
-            <plane>
-              <normal>0 0 1</normal>
-              <size>0.1 3.2</size>
-            </plane>
+            <uri>
+              model:://aruco_id1/meshes/ID_1.dae
+            </uri>
+            <scale>1 1 1</scale>
           </geometry>
-          <material>
-            <script>
-              <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Yellow</name>
-            </script>
-          </material>
         </visual>
       </link>
-      <pose>0 -0 0 0 -0 0</pose>
+      <pose>0 0 0 0 0 0</pose>
     </model>
     <static>0</static>
     <allow_auto_disable>1</allow_auto_disable>

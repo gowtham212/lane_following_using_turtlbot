@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/user/lane_following_using_turtlbot/src
+CMAKE_SOURCE_DIR = /home/jin/projects/lane_following_using_turtlbot/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/user/lane_following_using_turtlbot/build
+CMAKE_BINARY_DIR = /home/jin/projects/lane_following_using_turtlbot/build
 
 # Utility rule file for turtlebot3_msgs_genlisp.
 
@@ -63,10 +63,10 @@ turtlebot3_msgs/CMakeFiles/turtlebot3_msgs_genlisp.dir/build: turtlebot3_msgs_ge
 .PHONY : turtlebot3_msgs/CMakeFiles/turtlebot3_msgs_genlisp.dir/build
 
 turtlebot3_msgs/CMakeFiles/turtlebot3_msgs_genlisp.dir/clean:
-	cd /home/user/lane_following_using_turtlbot/build/turtlebot3_msgs && $(CMAKE_COMMAND) -P CMakeFiles/turtlebot3_msgs_genlisp.dir/cmake_clean.cmake
+	cd /home/jin/projects/lane_following_using_turtlbot/build/turtlebot3_msgs && $(CMAKE_COMMAND) -P CMakeFiles/turtlebot3_msgs_genlisp.dir/cmake_clean.cmake
 .PHONY : turtlebot3_msgs/CMakeFiles/turtlebot3_msgs_genlisp.dir/clean
 
 turtlebot3_msgs/CMakeFiles/turtlebot3_msgs_genlisp.dir/depend:
-	cd /home/user/lane_following_using_turtlbot/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user/lane_following_using_turtlbot/src /home/user/lane_following_using_turtlbot/src/turtlebot3_msgs /home/user/lane_following_using_turtlbot/build /home/user/lane_following_using_turtlbot/build/turtlebot3_msgs /home/user/lane_following_using_turtlbot/build/turtlebot3_msgs/CMakeFiles/turtlebot3_msgs_genlisp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/jin/projects/lane_following_using_turtlbot/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jin/projects/lane_following_using_turtlbot/src /home/jin/projects/lane_following_using_turtlbot/src/turtlebot3_msgs /home/jin/projects/lane_following_using_turtlbot/build /home/jin/projects/lane_following_using_turtlbot/build/turtlebot3_msgs /home/jin/projects/lane_following_using_turtlbot/build/turtlebot3_msgs/CMakeFiles/turtlebot3_msgs_genlisp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : turtlebot3_msgs/CMakeFiles/turtlebot3_msgs_genlisp.dir/depend
 

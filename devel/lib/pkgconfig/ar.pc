@@ -1,4 +1,4 @@
-prefix=/home/user/lane_following_using_turtlbot/devel
+prefix=/home/jin/projects/lane_following_using_turtlbot/devel
 
 Name: ar
 Description: Description of ar

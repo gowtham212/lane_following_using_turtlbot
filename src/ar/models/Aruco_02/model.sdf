@@ -1,0 +1,20 @@
+<?xml version ="1.0"?>
+<sdf version="1.6">
+  <model name="Aruco_02">
+    <static>true</static>
+    <link name="link">
+
+      <visual name="visual1">
+        <cast_shadows>false</cast_shadows>
+	      <pose> 0 0 0 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>model://Aruco_02/meshes/ar2.obj</uri>
+	               <scale>1 1 1</scale>
+          </mesh>
+        </geometry>
+      </visual>
+
+    </link>
+  </model>
+</sdf>

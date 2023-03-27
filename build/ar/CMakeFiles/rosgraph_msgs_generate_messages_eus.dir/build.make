@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/user/lane_following_using_turtlbot/src
+CMAKE_SOURCE_DIR = /home/jin/projects/lane_following_using_turtlbot/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/user/lane_following_using_turtlbot/build
+CMAKE_BINARY_DIR = /home/jin/projects/lane_following_using_turtlbot/build
 
 # Utility rule file for rosgraph_msgs_generate_messages_eus.
 
@@ -63,10 +63,10 @@ ar/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build: rosgraph_msgs_gener
 .PHONY : ar/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build
 
 ar/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/clean:
-	cd /home/user/lane_following_using_turtlbot/build/ar && $(CMAKE_COMMAND) -P CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/cmake_clean.cmake
+	cd /home/jin/projects/lane_following_using_turtlbot/build/ar && $(CMAKE_COMMAND) -P CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/cmake_clean.cmake
 .PHONY : ar/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/clean
 
 ar/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/depend:
-	cd /home/user/lane_following_using_turtlbot/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user/lane_following_using_turtlbot/src /home/user/lane_following_using_turtlbot/src/ar /home/user/lane_following_using_turtlbot/build /home/user/lane_following_using_turtlbot/build/ar /home/user/lane_following_using_turtlbot/build/ar/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/jin/projects/lane_following_using_turtlbot/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jin/projects/lane_following_using_turtlbot/src /home/jin/projects/lane_following_using_turtlbot/src/ar /home/jin/projects/lane_following_using_turtlbot/build /home/jin/projects/lane_following_using_turtlbot/build/ar /home/jin/projects/lane_following_using_turtlbot/build/ar/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : ar/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/depend
 

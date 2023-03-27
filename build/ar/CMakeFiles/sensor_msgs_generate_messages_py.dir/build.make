@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/user/lane_following_using_turtlbot/src
+CMAKE_SOURCE_DIR = /home/jin/projects/lane_following_using_turtlbot/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/user/lane_following_using_turtlbot/build
+CMAKE_BINARY_DIR = /home/jin/projects/lane_following_using_turtlbot/build
 
 # Utility rule file for sensor_msgs_generate_messages_py.
 
@@ -63,10 +63,10 @@ ar/CMakeFiles/sensor_msgs_generate_messages_py.dir/build: sensor_msgs_generate_m
 .PHONY : ar/CMakeFiles/sensor_msgs_generate_messages_py.dir/build
 
 ar/CMakeFiles/sensor_msgs_generate_messages_py.dir/clean:
-	cd /home/user/lane_following_using_turtlbot/build/ar && $(CMAKE_COMMAND) -P CMakeFiles/sensor_msgs_generate_messages_py.dir/cmake_clean.cmake
+	cd /home/jin/projects/lane_following_using_turtlbot/build/ar && $(CMAKE_COMMAND) -P CMakeFiles/sensor_msgs_generate_messages_py.dir/cmake_clean.cmake
 .PHONY : ar/CMakeFiles/sensor_msgs_generate_messages_py.dir/clean
 
 ar/CMakeFiles/sensor_msgs_generate_messages_py.dir/depend:
-	cd /home/user/lane_following_using_turtlbot/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user/lane_following_using_turtlbot/src /home/user/lane_following_using_turtlbot/src/ar /home/user/lane_following_using_turtlbot/build /home/user/lane_following_using_turtlbot/build/ar /home/user/lane_following_using_turtlbot/build/ar/CMakeFiles/sensor_msgs_generate_messages_py.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/jin/projects/lane_following_using_turtlbot/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jin/projects/lane_following_using_turtlbot/src /home/jin/projects/lane_following_using_turtlbot/src/ar /home/jin/projects/lane_following_using_turtlbot/build /home/jin/projects/lane_following_using_turtlbot/build/ar /home/jin/projects/lane_following_using_turtlbot/build/ar/CMakeFiles/sensor_msgs_generate_messages_py.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : ar/CMakeFiles/sensor_msgs_generate_messages_py.dir/depend
 

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/user/lane_following_using_turtlbot/src
+CMAKE_SOURCE_DIR = /home/jin/projects/lane_following_using_turtlbot/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/user/lane_following_using_turtlbot/build
+CMAKE_BINARY_DIR = /home/jin/projects/lane_following_using_turtlbot/build
 
 # Utility rule file for _turtlebot3_msgs_generate_messages_check_deps_SensorState.
 
@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/user/lane_following_using_turtlbot/build
 include turtlebot3_msgs/CMakeFiles/_turtlebot3_msgs_generate_messages_check_deps_SensorState.dir/progress.make
 
 turtlebot3_msgs/CMakeFiles/_turtlebot3_msgs_generate_messages_check_deps_SensorState:
-	cd /home/user/lane_following_using_turtlbot/build/turtlebot3_msgs && ../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py turtlebot3_msgs /home/user/lane_following_using_turtlbot/src/turtlebot3_msgs/msg/SensorState.msg std_msgs/Header
+	cd /home/jin/projects/lane_following_using_turtlbot/build/turtlebot3_msgs && ../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py turtlebot3_msgs /home/jin/projects/lane_following_using_turtlbot/src/turtlebot3_msgs/msg/SensorState.msg std_msgs/Header
 
 _turtlebot3_msgs_generate_messages_check_deps_SensorState: turtlebot3_msgs/CMakeFiles/_turtlebot3_msgs_generate_messages_check_deps_SensorState
 _turtlebot3_msgs_generate_messages_check_deps_SensorState: turtlebot3_msgs/CMakeFiles/_turtlebot3_msgs_generate_messages_check_deps_SensorState.dir/build.make
@@ -67,10 +67,10 @@ turtlebot3_msgs/CMakeFiles/_turtlebot3_msgs_generate_messages_check_deps_SensorS
 .PHONY : turtlebot3_msgs/CMakeFiles/_turtlebot3_msgs_generate_messages_check_deps_SensorState.dir/build
 
 turtlebot3_msgs/CMakeFiles/_turtlebot3_msgs_generate_messages_check_deps_SensorState.dir/clean:
-	cd /home/user/lane_following_using_turtlbot/build/turtlebot3_msgs && $(CMAKE_COMMAND) -P CMakeFiles/_turtlebot3_msgs_generate_messages_check_deps_SensorState.dir/cmake_clean.cmake
+	cd /home/jin/projects/lane_following_using_turtlbot/build/turtlebot3_msgs && $(CMAKE_COMMAND) -P CMakeFiles/_turtlebot3_msgs_generate_messages_check_deps_SensorState.dir/cmake_clean.cmake
 .PHONY : turtlebot3_msgs/CMakeFiles/_turtlebot3_msgs_generate_messages_check_deps_SensorState.dir/clean
 
 turtlebot3_msgs/CMakeFiles/_turtlebot3_msgs_generate_messages_check_deps_SensorState.dir/depend:
-	cd /home/user/lane_following_using_turtlbot/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user/lane_following_using_turtlbot/src /home/user/lane_following_using_turtlbot/src/turtlebot3_msgs /home/user/lane_following_using_turtlbot/build /home/user/lane_following_using_turtlbot/build/turtlebot3_msgs /home/user/lane_following_using_turtlbot/build/turtlebot3_msgs/CMakeFiles/_turtlebot3_msgs_generate_messages_check_deps_SensorState.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/jin/projects/lane_following_using_turtlbot/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jin/projects/lane_following_using_turtlbot/src /home/jin/projects/lane_following_using_turtlbot/src/turtlebot3_msgs /home/jin/projects/lane_following_using_turtlbot/build /home/jin/projects/lane_following_using_turtlbot/build/turtlebot3_msgs /home/jin/projects/lane_following_using_turtlbot/build/turtlebot3_msgs/CMakeFiles/_turtlebot3_msgs_generate_messages_check_deps_SensorState.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : turtlebot3_msgs/CMakeFiles/_turtlebot3_msgs_generate_messages_check_deps_SensorState.dir/depend
 
