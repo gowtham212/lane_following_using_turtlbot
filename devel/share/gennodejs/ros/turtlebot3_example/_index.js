@@ -1,6 +1,1 @@
-
-"use strict";
-
-module.exports = {
-  msg: require('./msg/_index.js'),
-};
+/home/user/lane_following_using_turtlbot/devel/.private/turtlebot3_example/share/gennodejs/ros/turtlebot3_example/_index.js

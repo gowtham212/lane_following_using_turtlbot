@@ -1,11 +1,1 @@
-(cl:defpackage turtlebot3_msgs-msg
-  (:use )
-  (:export
-   "<SENSORSTATE>"
-   "SENSORSTATE"
-   "<SOUND>"
-   "SOUND"
-   "<VERSIONINFO>"
-   "VERSIONINFO"
-  ))
-
+/home/user/lane_following_using_turtlbot/devel/.private/turtlebot3_msgs/share/common-lisp/ros/turtlebot3_msgs/msg/_package.lisp

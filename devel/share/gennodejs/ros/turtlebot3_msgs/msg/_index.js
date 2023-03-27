@@ -1,12 +1,1 @@
-
-"use strict";
-
-let SensorState = require('./SensorState.js');
-let Sound = require('./Sound.js');
-let VersionInfo = require('./VersionInfo.js');
-
-module.exports = {
-  SensorState: SensorState,
-  Sound: Sound,
-  VersionInfo: VersionInfo,
-};
+/home/user/lane_following_using_turtlbot/devel/.private/turtlebot3_msgs/share/gennodejs/ros/turtlebot3_msgs/msg/_index.js

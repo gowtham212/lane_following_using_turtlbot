@@ -1,8 +1,1 @@
-(cl:in-package turtlebot3_example-msg)
-(cl:export '(HEADER-VAL
-          HEADER
-          STATUS-VAL
-          STATUS
-          RESULT-VAL
-          RESULT
-))
+/home/user/lane_following_using_turtlbot/devel/.private/turtlebot3_example/share/common-lisp/ros/turtlebot3_example/msg/_package_Turtlebot3ActionResult.lisp

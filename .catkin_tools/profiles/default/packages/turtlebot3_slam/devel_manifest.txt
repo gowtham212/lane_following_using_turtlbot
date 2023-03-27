@@ -1,6 +1,6 @@
 turtlebot3/turtlebot3_slam
-/home/jin/projects/lane_following_using_turtlbot/devel/.private/turtlebot3_slam/cmake.lock /home/jin/projects/lane_following_using_turtlbot/devel/./cmake.lock
-/home/jin/projects/lane_following_using_turtlbot/devel/.private/turtlebot3_slam/lib/pkgconfig/turtlebot3_slam.pc /home/jin/projects/lane_following_using_turtlbot/devel/lib/pkgconfig/turtlebot3_slam.pc
-/home/jin/projects/lane_following_using_turtlbot/devel/.private/turtlebot3_slam/lib/turtlebot3_slam/flat_world_imu_node /home/jin/projects/lane_following_using_turtlbot/devel/lib/turtlebot3_slam/flat_world_imu_node
-/home/jin/projects/lane_following_using_turtlbot/devel/.private/turtlebot3_slam/share/turtlebot3_slam/cmake/turtlebot3_slamConfig-version.cmake /home/jin/projects/lane_following_using_turtlbot/devel/share/turtlebot3_slam/cmake/turtlebot3_slamConfig-version.cmake
-/home/jin/projects/lane_following_using_turtlbot/devel/.private/turtlebot3_slam/share/turtlebot3_slam/cmake/turtlebot3_slamConfig.cmake /home/jin/projects/lane_following_using_turtlbot/devel/share/turtlebot3_slam/cmake/turtlebot3_slamConfig.cmake
+/home/user/lane_following_using_turtlbot/devel/.private/turtlebot3_slam/cmake.lock /home/user/lane_following_using_turtlbot/devel/./cmake.lock
+/home/user/lane_following_using_turtlbot/devel/.private/turtlebot3_slam/share/turtlebot3_slam/cmake/turtlebot3_slamConfig-version.cmake /home/user/lane_following_using_turtlbot/devel/share/turtlebot3_slam/cmake/turtlebot3_slamConfig-version.cmake
+/home/user/lane_following_using_turtlbot/devel/.private/turtlebot3_slam/share/turtlebot3_slam/cmake/turtlebot3_slamConfig.cmake /home/user/lane_following_using_turtlbot/devel/share/turtlebot3_slam/cmake/turtlebot3_slamConfig.cmake
+/home/user/lane_following_using_turtlbot/devel/.private/turtlebot3_slam/lib/turtlebot3_slam/flat_world_imu_node /home/user/lane_following_using_turtlbot/devel/lib/turtlebot3_slam/flat_world_imu_node
+/home/user/lane_following_using_turtlbot/devel/.private/turtlebot3_slam/lib/pkgconfig/turtlebot3_slam.pc /home/user/lane_following_using_turtlbot/devel/lib/pkgconfig/turtlebot3_slam.pc
