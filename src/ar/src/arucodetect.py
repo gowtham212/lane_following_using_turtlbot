@@ -60,25 +60,22 @@ if __name__ == '__main__':
             # twist.linear.x = 0.2
             twist.angular.z = 0.2
             pub.publish(twist)
-            # if d <=1.54:
-            #     twist = Twist()
-            #     twist.linear.x = 0.2
-            #     # twist.angular.z = 0.0
-            #     pub.publish(twist)
-            # else:
-            #     twist = Twist()
-            #     twist.linear.x = 0.0
-            #     # twist.angular.z = 0.0
-            #     pub.publish(twist)
+       
            
         else:
             twist = Twist()
             # twist.linear.x = 0.0
             twist.angular.z = 0.0
             pub.publish(twist)
+            if d >=0.84:
+                twist = Twist()
+                twist.linear.x = 0.15
+                # twist.angular.z = 0.0
+                pub.publish(twist)
+            else:
+                twist = Twist()
+                twist.linear.x = 0.0
+                # twist.angular.z = 0.0
+                pub.publish(twist)
             
-        
-       
-        
-     
         rate.sleep()
