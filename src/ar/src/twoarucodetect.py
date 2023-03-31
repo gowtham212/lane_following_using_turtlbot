@@ -75,12 +75,12 @@ if __name__ == '__main__':
         if yaw1>=-1.5:
             twist = Twist()
             # twist.linear.x = 0.2
-            twist.angular.z = 0.2
+            twist.angular.z = 0.1
             pub.publish(twist)
         elif yaw2<=-1.3:
             twist = Twist()
             # twist.linear.x = 0.2
-            twist.angular.z = -0.2
+            twist.angular.z = -0.1
             pub.publish(twist)
        
            

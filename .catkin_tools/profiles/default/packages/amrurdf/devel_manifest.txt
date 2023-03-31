@@ -1,0 +1,5 @@
+amrurdf
+/home/user/lane_following_using_turtlbot/devel/.private/amrurdf/cmake.lock /home/user/lane_following_using_turtlbot/devel/./cmake.lock
+/home/user/lane_following_using_turtlbot/devel/.private/amrurdf/share/amrurdf/cmake/amrurdfConfig.cmake /home/user/lane_following_using_turtlbot/devel/share/amrurdf/cmake/amrurdfConfig.cmake
+/home/user/lane_following_using_turtlbot/devel/.private/amrurdf/share/amrurdf/cmake/amrurdfConfig-version.cmake /home/user/lane_following_using_turtlbot/devel/share/amrurdf/cmake/amrurdfConfig-version.cmake
+/home/user/lane_following_using_turtlbot/devel/.private/amrurdf/lib/pkgconfig/amrurdf.pc /home/user/lane_following_using_turtlbot/devel/lib/pkgconfig/amrurdf.pc
